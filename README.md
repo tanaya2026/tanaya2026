@@ -55,6 +55,9 @@ See the full list on my [skills page →](https://tanayadatar.vercel.app/skills)
 
 ### `$ ls projects/`
 
+**[SeedBench-Bio](https://github.com/tanaya2026/SeedBench-Bio)** — *Python, LLM Evaluation*
+Benchmark testing whether prompt design, not just model choice, changes an LLM's error-detection recall and reasoning quality on seeded bioinformatics review tasks.
+
 **[ExprCompareR](https://github.com/tanaya2026/ExprCompareR)** — *R, Shiny*
 Interactive omics data reporting tool integrating RNA-seq and protein-expression datasets across human tissues for functional genomics and precision oncology research.
 
