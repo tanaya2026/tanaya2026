@@ -61,7 +61,7 @@ Benchmark testing whether prompt design, not just model choice, changes an LLM's
 **[ExprCompareR](https://github.com/tanaya2026/ExprCompareR)** — *R, Shiny*
 Interactive omics data reporting tool integrating RNA-seq and protein-expression datasets across human tissues for functional genomics and precision oncology research.
 
-**[BMP7 Signaling in Medulloblastoma](https://bcb420-2026.github.io/Tanaya_Datar/A2_TanayaDatar.html)** — *R, Bioconductor, Cytoscape*
+**[BMP7 Signaling in Medulloblastoma](https://github.com/tanaya2026/BMP7-Medulloblastoma-Transcriptomics)** — *R, Bioconductor, Cytoscape*
 Recreated and extended published analysis of BMP7-driven oncogenic signaling: differential expression, GSEA, and pathway enrichment mapping from bulk RNA-seq data.
 
 **[Pathogenic SNV Prediction Tool](https://devpost.com/software/predicting-if-a-snv-is-pathogenic-or-benign)** — *Python, Bash, ML*
