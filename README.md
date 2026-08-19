@@ -58,11 +58,14 @@ See the full list on my [skills page →](https://tanayadatar.vercel.app/skills)
 **[SeedBench-Bio](https://github.com/tanaya2026/SeedBench-Bio)** — *Python, LLM Evaluation*
 Benchmark testing whether prompt design, not just model choice, changes an LLM's error-detection recall and reasoning quality on seeded bioinformatics review tasks.
 
-**[ExprCompareR](https://github.com/tanaya2026/ExprCompareR)** — *R, Shiny*
-Interactive omics data reporting tool integrating RNA-seq and protein-expression datasets across human tissues for functional genomics and precision oncology research.
+**[EEG Seizure Detection](https://github.com/tanaya2026/eeg-seizure-detection)** — *Python, ML*
+Signal-processing pipeline benchmarking models and engineered EEG features on pediatric seizure data, using leave-one-patient-out cross-validation to test whether performance holds on patients never seen in training.
 
 **[BMP7 Signaling in Medulloblastoma](https://github.com/tanaya2026/BMP7-Medulloblastoma-Transcriptomics)** — *R, Bioconductor, Cytoscape*
 Recreated and extended published analysis of BMP7-driven oncogenic signaling: differential expression, GSEA, and pathway enrichment mapping from bulk RNA-seq data.
+
+**[ExprCompareR](https://github.com/tanaya2026/ExprCompareR)** — *R, Shiny*
+Interactive omics data reporting tool integrating RNA-seq and protein-expression datasets across human tissues for functional genomics and precision oncology research.
 
 **[Pathogenic SNV Prediction Tool](https://devpost.com/software/predicting-if-a-snv-is-pathogenic-or-benign)** — *Python, Bash, ML*
 Machine learning classifier predicting pathogenic vs. benign SNVs using ClinVar labels, annotated across 13,000+ variants with regulatory genomic features.
