@@ -17,7 +17,7 @@
 
 ### `$ whoami`
 
-I work at the intersection of **bioinformatics, machine learning, and data analysis** — building computational tools to make sense of high-dimensional biological data, from single-cell transcriptomes to gene regulatory networks, in pursuit of a clearer picture of how disease develops.
+I work at the intersection of **bioinformatics, machine learning, and data analytics** — building computational tools to make sense of high-dimensional biological data, from single-cell transcriptomes to gene regulatory networks, in pursuit of a clearer picture of how disease develops.
 
 I'm currently a **Computational Biology Researcher at the Ontario Institute for Cancer Research (OICR)**, where I use single-cell transcriptomics to investigate the developmental origins of **medulloblastoma**, a pediatric brain cancer.
 
