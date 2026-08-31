@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanaya Datar 👋</h1>
 
 <p align="center">
-  <em>Bioinformatics · Machine Learning · Cancer Genomics</em>
+  <em>Bioinformatics · Machine Learning · Data Analytics · Cancer Genomics</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### `$ whoami`
 
-I work at the intersection of **bioinformatics, machine learning, and cancer genomics** — building computational tools to make sense of high-dimensional biological data, from single-cell transcriptomes to gene regulatory networks, in pursuit of a clearer picture of how disease develops.
+I work at the intersection of **bioinformatics, machine learning, and data analysis** — building computational tools to make sense of high-dimensional biological data, from single-cell transcriptomes to gene regulatory networks, in pursuit of a clearer picture of how disease develops.
 
 I'm currently a **Computational Biology Researcher at the Ontario Institute for Cancer Research (OICR)**, where I use single-cell transcriptomics to investigate the developmental origins of **medulloblastoma**, a pediatric brain cancer.
 
@@ -25,34 +25,16 @@ I recently graduated with a Honours Bachelor of Science at the **University of T
 
 ---
 
-### `$ research --interests`
-
-- Computational Genomics
-- Machine Learning for Biology
-- Single-Cell & Spatial Omics
-- Sequence-to-Function Models
-- Cancer Genomics & Brain Tumours
-- Precision Medicine
-- Tumour & Phenotype Characterization
-- Stem Cell Biology
-- Antibody Engineering
-
----
 ### `$ technical --skills`
-- Python
-- R
-- Bash/Shell Scripting
-- Java
-- C
-- JavaScript
-- Bulk and single cell RNA-seq analysis
-- Supervised/unsupervised machine learning
+- *Languages:* Python · R · SQL · Bash/Shell · Java · C · JavaScript
+- *Bioinformatics:* Bulk & single-cell RNA-seq analysis · Differential expression · Genomic data analysis
+- *Data Analysis:* pandas · NumPy · Excel · Power BI · Data cleaning & transformation · Data visualization
+- *Machine Learning:* Supervised & unsupervised learning · Feature engineering · Classification · Clustering · Model evaluation
+- *Tools:* Git · Docker · Linux/Unix · Jupyter
 
 See the full list on my [skills page →](https://tanayadatar.vercel.app/skills)
 
 ---
-
-
 ### `$ ls projects/`
 
 **[SeedBench-Bio](https://github.com/tanaya2026/SeedBench-Bio)** — *Python, LLM Evaluation*
@@ -60,6 +42,8 @@ Benchmark testing whether prompt design, not just model choice, changes an LLM's
 
 **[EEG Seizure Detection](https://github.com/tanaya2026/eeg-seizure-detection)** — *Python, ML*
 Signal-processing pipeline benchmarking models and engineered EEG features on pediatric seizure data, using leave-one-patient-out cross-validation to test whether performance holds on patients never seen in training.
+
+**[Medicare Genomic Testing Analytics](https://github.com/tanaya2026/medicare-genomic-testing-analysis)** — *SQL, Power BI, Excel, Python* Business and healthcare analytics dashboard testing whether Medicare genomic testing utilization aligns with state-level cancer incidence, built on a two-round CPT/HCPCS crosswalk and a data quality investigation that traced a 10x state-level outlier to a CMS billing-location attribution artifact.
 
 **[BMP7 Signaling in Medulloblastoma](https://github.com/tanaya2026/BMP7-Medulloblastoma-Transcriptomics)** — *R, Bioconductor, Cytoscape*
 Recreated and extended published analysis of BMP7-driven oncogenic signaling: differential expression, GSEA, and pathway enrichment mapping from bulk RNA-seq data.
@@ -74,6 +58,18 @@ See the full list on my [projects page →](https://tanayadatar.vercel.app/proje
 
 ---
 
+### `$ research --interests`
+
+- Computational Genomics
+- Machine Learning for Biology
+- Single-Cell & Spatial Omics
+- Sequence-to-Function Models
+- Cancer Genomics & Brain Tumours
+- Precision Medicine
+- Tumour & Phenotype Characterization
+- Stem Cell Biology
+- Antibody Engineering
+---
 ### `$ cat contact.txt`
 
 📫 [tanayadatar21@gmail.com](mailto:tanayadatar21@gmail.com)
