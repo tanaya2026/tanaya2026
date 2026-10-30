@@ -72,6 +72,6 @@ See the full list on my [projects page →](https://tanayadatar.vercel.app/proje
 ---
 ### `$ cat contact.txt`
 
-📫 [tanayadatar21@gmail.com](mailto:tanayadatar21@gmail.com)
+📫 [tanaya.datar@mail.utoronto.ca](mailto:tanaya.datar@mail.utoronto.ca)
 💼 [linkedin.com/in/tanaya-datar](https://www.linkedin.com/in/tanaya-datar-7484b62b5/)
 🌐 [tanayadatar.vercel.app](https://tanayadatar.vercel.app/)
